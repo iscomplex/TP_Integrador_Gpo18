@@ -26,3 +26,5 @@ public class Main {
 
         //Genero las suscripciones, que son un servicio contratado en una fecha, con un estado y un precio
         ArrayList<Suscripcion> suscripciones = lectorArchivos.listarSuscripciones(servicios);
+    }
+    }
